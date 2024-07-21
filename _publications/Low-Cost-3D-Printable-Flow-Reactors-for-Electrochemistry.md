@@ -2,7 +2,7 @@
 title: "Low Cost 3D Printable Flow Reactors for Electrochemistry"
 collection: publications
 permalink: /publication/Low-Cost-3D-Printable-Flow-Reactors-for-Electrochemistry
-excerpt: 
+excerpt: ''
 date: 2023-12-23
 venue: 'HardwareX'
 slidesurl: 
