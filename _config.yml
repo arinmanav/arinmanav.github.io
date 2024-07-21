@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Users/arinmanav/Website/images/Profile_Picture.jpg"
+  avatar           : "Profile_Picture.jpg"
   name             : "Yilmaz Arin Manav"
   pronouns         : # example: "she/her"
   bio              : "Pursuing a PhD degree at Northeastern University, focusing on piezoelectric MEMS-based GHz ultrasound for the metrology of additively manufactured electronics and device packaging as well as dynamic processes in fluids, hydrogels, and biological tissues. Interested in additively manufactured microsystems such as calorimetric devices, micromechanical cantilevers, and electromagnetic waveguides."
