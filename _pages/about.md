@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Yilmaz Arin Manav"
+tab title: "Yilmaz Arin Manav"
+main_title: " "
 author_profile: true
 redirect_from: 
   - /about/
