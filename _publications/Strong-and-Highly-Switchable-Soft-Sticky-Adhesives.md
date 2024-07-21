@@ -1,7 +1,7 @@
 ---
 title: "Strong and Highly Switchable Soft Sticky Adhesives"
 collection: publications
-permalink: 'https://arxiv.org/abs/2401.02002'
+permalink: "https://arxiv.org/abs/2401.02002 "
 excerpt: ''
 date: 3 Jan 2024
 venue: 'arXiv'
