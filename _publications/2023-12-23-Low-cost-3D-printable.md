@@ -1,7 +1,7 @@
 ---
 title: "Low cost 3D printable flow reactors for electrochemistry"
 collection: publications
-permalink: /publication/2024-01-03-Strong-and-Highly-Switchable copy
+permalink: /publication/2023-12-23-Low-cost-3D-printable
 excerpt: ''
 date: 2023-12-23
 venue: 'HardwareX'
