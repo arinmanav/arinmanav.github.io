@@ -7,5 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi! My name is Yilmaz Arin Manav and I'm a PhD student in electrical engineering at Northeastern University.
+Home Page
+Hi! Welcome to Yilmaz Arin Manav's website.
