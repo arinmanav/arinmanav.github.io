@@ -1,7 +1,7 @@
 ---
 title: "Strong and Highly Switchable Soft Sticky Adhesives"
 collection: publications
-permalink: /publication/Strong and Highly Switchable Soft Sticky Adhesives
+permalink: /publication/Strong-and-Highly-Switchable-Soft-Sticky-Adhesives
 excerpt: ''
 date: 3 Jan 2024
 venue: 'Journal 1'
