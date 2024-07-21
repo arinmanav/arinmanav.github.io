@@ -2,7 +2,7 @@
 title: "Towards GHz Ultrasound Enabled Noninvasive Hydrogel Metrology for Mechanobiology"
 collection: publications
 permalink: /publication/Towards-GHz-Ultrasound-Enabled-Noninvasive-Hydrogel-Metrology-for-Mechanobiology
-excerpt: 
+excerpt: ''
 date: 2024-02-22
 venue: 'IEEE 37th International Conference on Micro Electro Mechanical Systems (MEMS)'
 slidesurl: 
