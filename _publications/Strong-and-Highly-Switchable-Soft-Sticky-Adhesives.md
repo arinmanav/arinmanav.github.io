@@ -9,5 +9,3 @@ slidesurl:
 paperurl: 'https://arxiv.org/abs/2401.02002'
 citation: 'Q. Yin, Y. A. Manav, Y. Wan, B. Davaji, and R. Bai, “Strong and highly switchable soft sticky adhesives,” arXiv.org. http://arxiv.org/abs/2401.02002 '
 ---
-
-
