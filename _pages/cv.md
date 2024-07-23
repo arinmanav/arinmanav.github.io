@@ -39,10 +39,11 @@ microscope setup to test potential ultrasonic neuromodulation mechanisms.
 * Measure elastic properties of polymers developed for soft robotics using a GHz ultrasonic chip scale device.
 
 University of Illinois Urbana-Champaign, Champaign, IL (August 2021 - December 2021)
-T
-eaching Assistant for Engineering Orientation Seminar
+
+Teaching Assistant for Engineering Orientation Seminar
 * Taught a class of 25 students about campus resources, professionalism, and academic success.
 * Conducted one on one mentoring for research experiences, internships, resume writing, and wellness.
+
 Astrofica Technologies, Remote (June 2021 - August 2021)
 
 Signal Processing Intern
