@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-Northeastern University, Boston, MA
+<em><strong>Northeastern University, Boston, MA<strong><em>
 * Ph.D. in Electrical Engineering (Expected Graduation: 2027)
 * GPA: 4.0/4.0
 * Coursework: Analog Integrated Circuit Design, Biomedical Microsystems, Design of Analog Integrated Circuits with CMOS Technology, Micro and Nano Fabrication, Introduction to MEMS, Solid State Devices
