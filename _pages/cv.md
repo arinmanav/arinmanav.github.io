@@ -11,35 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Northeastern University, Boston, MA
+* Ph.D. in Electrical Engineering (Expected Graduation: 2027)
+* GPA: 4.0/4.0
+* Coursework: Analog Integrated Circuit Design, Biomedical Microsystems, Design of Analog Integrated Circuits with CMOS Technology, Micro and Nano Fabrication, Introduction to MEMS, Solid State Devices
+
+University of Illinois Urbana-Champaign, Champaign, IL
+* Bachelor of Science in Electrical Engineering (Graduation: December 2021)
+* Coursework: Analog Signal Processing, Computer Systems and Programming, Data Science and Engineering, Digital Signal Processing, Digital Systems, Electronic Circuits, Power Circuits and Electromechanics, Power Electronics, Semiconductor Electronics
+
+Skills
+======
+* Programming Languages: Python, C, C++, Matlab, SystemVerilog
+* Software: Autodesk Eagle, Cadence Virtuoso, COMSOL, Fusion360, KiCAD, LTSpice, Labview
+* Languages: English, Turkish
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Northeastern University, Boston, MA September 2022 - Present
+Graduate Research Assistant
+* Fabricate MEMS sensors and flexible electronics through a novel additive manufacturing technology that uses silver nano particles and IR sintering.
+* Design a high frequency scanning acoustic microscope and combine it with an inverted epi-illumination
+microscope setup to test potential ultrasonic neuromodulation mechanisms.
+* Instruct and monitor three students in additively manufactured electronics design and fabrication.
+* Design digital hardware on FPGA for high frequency ultrasound data acquisition and signal processing.
+* Measure elastic properties of polymers developed for soft robotics using a GHz ultrasonic chip scale device.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+University of Illinois Urbana-Champaign, Champaign, IL August 2021 - December 2021
+Teaching Assistant for Engineering Orientation Seminar
+* Taught a class of 25 students about campus resources, professionalism, and academic success.
+* Conducted one on one mentoring for research experiences, internships, resume writing, and wellness.
+Astrofica Technologies, South Africa June 2021 - August 2021
+Signal Processing Intern
+* Improved the atmospheric correction algorithms used for hyperspectral and multispectral satellite data.
+* Produced satellite data products for flood and wildfire detection using spectral reflectance data and over 15 different hyperspectral indices.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Innovators of the Future Student Poster Award (First Place) at FLEX 2024 in SEMICON West
 
 Publications
 ======
@@ -59,6 +68,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
