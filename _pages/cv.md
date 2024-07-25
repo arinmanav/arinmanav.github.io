@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "CV"
+tab title: "CV"
+main_title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -28,7 +29,7 @@ Skills
 
 Work experience
 ======
-Northeastern University, Boston, MA (September 2022 - Present)
+<em><strong>Northeastern University, Boston, MA (September 2022 - Present)<strong><em>
 
 Graduate Research Assistant
 * Fabricate MEMS sensors and flexible electronics through a novel additive manufacturing technology that uses silver nano particles and IR sintering.
@@ -38,13 +39,13 @@ microscope setup to test potential ultrasonic neuromodulation mechanisms.
 * Design digital hardware on FPGA for high frequency ultrasound data acquisition and signal processing.
 * Measure elastic properties of polymers developed for soft robotics using a GHz ultrasonic chip scale device.
 
-University of Illinois Urbana-Champaign, Champaign, IL (August 2021 - December 2021)
+<em><strong>University of Illinois Urbana-Champaign, Champaign, IL (August 2021 - December 2021)<strong><em>
 
 Teaching Assistant for Engineering Orientation Seminar
 * Taught a class of 25 students about campus resources, professionalism, and academic success.
 * Conducted one on one mentoring for research experiences, internships, resume writing, and wellness.
 
-Astrofica Technologies, Remote (June 2021 - August 2021)
+A<em><strong>strofica Technologies, Remote (June 2021 - August 2021)<strong><em>
 
 Signal Processing Intern
 * Improved the atmospheric correction algorithms used for hyperspectral and multispectral satellite data.
