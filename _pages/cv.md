@@ -16,7 +16,7 @@ Education
 * GPA: 4.0/4.0
 * Coursework: Analog Integrated Circuit Design, Biomedical Microsystems, Design of Analog Integrated Circuits with CMOS Technology, Micro and Nano Fabrication, Introduction to MEMS, Solid State Devices
 
-University of Illinois Urbana-Champaign, Champaign, IL
+<em><strong>University of Illinois Urbana-Champaign, Champaign, IL<strong><em>
 * Bachelor of Science in Electrical Engineering (Graduation: December 2021)
 * Coursework: Analog Signal Processing, Computer Systems and Programming, Data Science and Engineering, Digital Signal Processing, Digital Systems, Electronic Circuits, Power Circuits and Electromechanics, Power Electronics, Semiconductor Electronics
 
