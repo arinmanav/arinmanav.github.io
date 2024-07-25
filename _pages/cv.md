@@ -29,9 +29,9 @@ Skills
 
 Work experience
 ======
-<em><strong>Northeastern University, Boston, MA (September 2022 - Present)<strong><em>
+<em><strong>Graduate Research Assistant<strong><em>
 
-Graduate Research Assistant
+Northeastern University, Boston, MA (September 2022 - Present)
 * Fabricate MEMS sensors and flexible electronics through a novel additive manufacturing technology that uses silver nano particles and IR sintering.
 * Design a high frequency scanning acoustic microscope and combine it with an inverted epi-illumination
 microscope setup to test potential ultrasonic neuromodulation mechanisms.
@@ -39,15 +39,16 @@ microscope setup to test potential ultrasonic neuromodulation mechanisms.
 * Design digital hardware on FPGA for high frequency ultrasound data acquisition and signal processing.
 * Measure elastic properties of polymers developed for soft robotics using a GHz ultrasonic chip scale device.
 
-<em><strong>University of Illinois Urbana-Champaign, Champaign, IL (August 2021 - December 2021)<strong><em>
+<em><strong>Teaching Assistant for Engineering Orientation Seminar<strong><em>
 
-Teaching Assistant for Engineering Orientation Seminar
+University of Illinois Urbana-Champaign, Champaign, IL (August 2021 - December 2021)
 * Taught a class of 25 students about campus resources, professionalism, and academic success.
 * Conducted one on one mentoring for research experiences, internships, resume writing, and wellness.
 
-A<em><strong>strofica Technologies, Remote (June 2021 - August 2021)<strong><em>
+<em><strong>Signal Processing Intern<strong><em>
 
-Signal Processing Intern
+Astrofica Technologies, Remote (June 2021 - August 2021)
+
 * Improved the atmospheric correction algorithms used for hyperspectral and multispectral satellite data.
 * Produced satellite data products for flood and wildfire detection using spectral reflectance data and over 15 different hyperspectral indices.
 
