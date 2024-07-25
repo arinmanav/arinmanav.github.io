@@ -1,8 +1,8 @@
 ---
 title: "ENG100 Teching Assistant"
 collection: teaching
-type: "Class"
-permalink: /teaching/ta_eng100
+type: "Undergraduate course"
+permalink: /teaching/2015-spring-teaching-2
 venue: "University of Illinois Urbana-Champaign"
 date: 2021
 location: "Champaign, IL"
