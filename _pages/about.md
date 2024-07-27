@@ -11,7 +11,7 @@ redirect_from:
 Welcome!
 ===
 
-On this website, you can find information about my [publications] (https://academicpages.github.io/publications/), [talks] (https://arinmanav.github.io//talks/), and [CV] (https://arinmanav.github.io//cv/). Please feel free check out my short bio below or read my [blog posts] (https://arinmanav.github.io//year-archive/).
+On this website, you can find information about my [publications](https://academicpages.github.io/publications/), [talks](https://arinmanav.github.io//talks/), and [CV](https://arinmanav.github.io//cv/). Please feel free check out my short bio below or read my [blog posts](https://arinmanav.github.io//year-archive/).
 
 Short Bio:
 
