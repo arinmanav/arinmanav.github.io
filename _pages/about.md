@@ -20,4 +20,4 @@ On this website, you can find information about my:
 
 Short Bio:
 ====
-I am currently ursuing a PhD degree at Northeastern University, focusing on piezoelectric MEMS-based GHz ultrasound metrology of electronics, MEMS devices, device packaging, and dynamic processes in biological and biomimetic tissues. My interests also include additively manufactured microsystems such as calorimetric devices, micromechanical cantilevers, and electromagnetic waveguides for biosensing applications as well as microfluidic and BioMEMS devices.
+I am currently pursuing a PhD degree at Northeastern University, focusing on piezoelectric MEMS-based GHz ultrasound metrology of electronics, MEMS devices, device packaging, and dynamic processes in biological and biomimetic tissues. My interests also include additively manufactured microsystems such as calorimetric devices, micromechanical cantilevers, and electromagnetic waveguides for biosensing applications as well as microfluidic and BioMEMS devices.
