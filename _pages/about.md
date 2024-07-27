@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! Welcome to Yilmaz Arin Manav's website.
+#Hi!
 
-Short Bio:
 
-  Pursuing a PhD degree at Northeastern University, focusing on piezoelectric MEMS-based GHz ultrasound for the metrology  in various area such as electronics, MEMS devices, device packaging, and dynamic processes in biological and biomimetic tissues. Interested in additively manufactured microsystems such as calorimetric devices, micromechanical cantilevers, and electromagnetic waveguides for biosensing applications.
+#Short Bio:
+
+  Pursuing a PhD degree at Northeastern University, focusing on piezoelectric MEMS-based GHz ultrasound metrology of electronics, MEMS devices, device packaging, and dynamic processes in biological and biomimetic tissues. Interested in additively manufactured microsystems such as calorimetric devices, micromechanical cantilevers, and electromagnetic waveguides for biosensing applications.
