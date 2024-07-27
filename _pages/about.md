@@ -12,8 +12,10 @@ Hi!
 On this website, you can find information about my: 
 * [Publications](https://academicpages.github.io/publications/)
 * [Talks](https://arinmanav.github.io//talks/)
-* [CV](https://arinmanav.github.io//cv/). 
+* [Teaching(https://arinmanav.github.io//teaching/)
+* (Portfolio)[https://arinmanav.github.io//portfolio/]
 * [Blog Posts](https://arinmanav.github.io//year-archive/)
+* [CV](https://arinmanav.github.io//cv/). 
 
 
 Short Bio:
