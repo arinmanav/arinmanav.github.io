@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-"Hi!"
+Hi!
 ====
 On this website, you can find information about my [publications](https://academicpages.github.io/publications/), [talks](https://arinmanav.github.io//talks/), and [CV](https://arinmanav.github.io//cv/). Please feel free to check out my [blog posts](https://arinmanav.github.io//year-archive/) and my short bio below.
 
