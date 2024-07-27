@@ -10,7 +10,7 @@ redirect_from:
 Hi!
 ====
 On this website, you can find information about my: 
-* [Publications](https://academicpages.github.io/publications/)
+* [Publications](https://arinmanav.github.io//publications/)
 * [Talks](https://arinmanav.github.io//talks/)
 * [Teaching](https://arinmanav.github.io//teaching/)
 * [Portfolio](https://arinmanav.github.io//portfolio/)
