@@ -15,7 +15,7 @@ On this website, you can find information about my:
 * [Teaching](https://arinmanav.github.io//teaching/)
 * [Portfolio](https://arinmanav.github.io//portfolio/)
 * [Blog Posts](https://arinmanav.github.io//year-archive/)
-* [CV](https://arinmanav.github.io//cv/). 
+* [CV](https://arinmanav.github.io//cv/)
 
 
 Short Bio:
